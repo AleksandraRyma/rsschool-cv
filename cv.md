@@ -8,7 +8,6 @@
  
 - **Email:** aleksandra.ryma23@mail.ru  
 - **Location:** Minsk, Belarus  
-- **Discord:** AleksandraRyma#1234 *(пример, замени на свой)*  
 
 ---
 
