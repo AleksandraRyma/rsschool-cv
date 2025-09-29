@@ -26,6 +26,7 @@ I am a dedicated and enthusiastic software engineering student seeking an intern
 - SQL  
 - C++  
 - HTML, CSS  
+- Python
 
 **Tools & Methodologies:**  
 - Git  
