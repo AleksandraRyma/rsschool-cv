@@ -31,6 +31,6 @@ I am a dedicated and enthusiastic software engineering student seeking an intern
 - Git  
 - Multithreading  
 - Design Patterns (Singleton, Decorator, Strategy)  
-- Agile basics  
+ 
 
 ---
